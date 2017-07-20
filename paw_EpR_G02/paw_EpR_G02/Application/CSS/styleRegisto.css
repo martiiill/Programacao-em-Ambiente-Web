@@ -1,0 +1,41 @@
+body{
+    background-color: antiquewhite;
+    color:darkslateblue;
+    font-family: Comic Sans MS, cursive, sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+form{
+    padding: 2%;
+    
+}
+
+label{
+    float:left;
+    display: block;
+    clear: left;
+    text-align: right;
+    margin-top: 10px;
+    padding-right: 10px;
+}
+
+input{
+    display:block;    
+    margin-top: 10px;   
+}
+
+#nome,#morada,#contacto,#username,#password{
+   margin-left: 10%;
+}
+
+#resetbutton,#sbutton{
+    margin-top: 2%;
+    margin-right: 10%;
+    float: left;
+}
+
+p{
+    margin: 2%;
+}

@@ -1,0 +1,16 @@
+body{
+   background-color: antiquewhite;
+   text-align: center;
+   color: darkslateblue;
+   font-family: Comic Sans MS, cursive, sans-serif;
+}
+
+table,tr{
+    margin-left: auto;
+    margin-right: auto;  
+}
+
+.normal{
+   font-weight: bold;
+   color: darkslateblue;
+}

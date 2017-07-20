@@ -1,0 +1,24 @@
+
+body {
+    background-color: antiquewhite;
+    color:darkslateblue;
+    font-family: Comic Sans MS, cursive, sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+#idCategoria{
+    margin-left: 2%;
+}
+
+#btnSubmit{
+   margin-left: 20%; 
+}
+
+#imgCat{
+    float: right;
+    margin-top: -18%;
+    margin-right: 8%;
+}

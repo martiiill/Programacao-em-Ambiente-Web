@@ -1,0 +1,26 @@
+
+body {
+    background-color: antiquewhite;
+    color: darkslateblue;
+    font-family: Comic Sans MS, cursive, sans-serif;
+}
+
+.form {
+    display: inline-block;
+}
+
+label {
+     display: inline-block;
+     width: 90%
+}
+
+select {
+     display: inline-block;
+     width: 40%
+}
+
+.links a {
+     display: inline-block;
+    text-decoration: none;
+    float: right;
+}

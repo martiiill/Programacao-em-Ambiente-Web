@@ -1,0 +1,66 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    font-size: 50px;
+    color: darkblue;
+    text-align: center;
+    font-family: Comic Sans MS, cursive, sans-serif;
+    font-style: italic;
+}
+.titulo_ultimos_documentos {
+    margin: 20px;
+    font-size: 40px;
+    font-style: italic;
+    color: darkslateblue;
+}
+
+section{
+    text-align: center;
+    border: 2px darkslateblue dashed;
+}
+#documentos{
+   color: darkslateblue; 
+}
+p{
+    color: darkslateblue;
+    text-align: center;
+    font-family: Comic Sans MS, cursive, sans-serif;
+}
+#verDocumentos{
+    text-decoration: none;
+    font-family: Comic Sans MS, cursive, sans-serif;
+    font-size: 20px;
+    margin: 38%;
+}
+#imgInicial{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+.autenticacao_area {
+    background-color: antiquewhite;
+    border: 1px darkslateblue solid;
+    width: 37%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.autenticacao_area legend{
+    color:darkslateblue;
+    font-weight: bold;
+    font-size: 20px;
+    font-family:Comic Sans MS, cursive, sans-serif;
+} 
+.autenticacao_area a {
+    text-decoration: none;
+    float: right;
+    margin: 10px;   
+}
+.login_user,.login_admin,.registo {
+    color: darkslateblue;
+    font-weight: bold;
+    font-family:Comic Sans MS, cursive, sans-serif;
+}
